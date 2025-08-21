@@ -1,5 +1,5 @@
 # Latihan_Branch  
 
-## ini github untuk latihan membuat branch  
+## ini github untuk latihan membuat branch 
 
-github itu asyik loh
+Belajar gituhub di dicoding seru loh
